@@ -5,8 +5,8 @@
 - **한림대학교** 재학 중 (2024년 입학, 현재 휴학)
 - 1학년 전체 평점: **4.50/4.50** GPA
 - 한림대학교 머신러닝 연구실 학부연구생 (2024년 2학기 ~)
-<br>
 
+<br>
 
 ## 🏆 Achievements
 - 2024 강원 ICT 이노베이션 스퀘어 AI 해커톤 대회 **최우수상**
@@ -14,14 +14,33 @@
 <br>
 
 ## 💻 Technical Skills
+### Main Skills
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</div>
+
+### Mobile Development
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</div>
+
+### Backend & Database
+<div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </div>
+
+## 📚 Currently Learning
+### Frontend Development Path
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
 <br>
 
 ## 📚 Academic Excellence
@@ -48,6 +67,8 @@
 <a href="mailto:isleehyun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-  
 </div>
+<br>
+<br>
+<br>
 <br>
