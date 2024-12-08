@@ -22,6 +22,8 @@
 ### 2️⃣ [한림캘린더](https://github.com/leetmdgus/hallym_calendar)
 - **설명**: 간단한 캘린더 겸 투두 리스트입니다.
 
+<br>
+
 
 ## 💻 Technical Skills
 ### Main Skills
@@ -29,18 +31,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</div>
-
-### Mobile Development
-<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</div>
-
-### Backend & Database
-<div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </div>
+
+<br>
 
 ## 📚 Currently Learning
 ### Frontend Development Path
