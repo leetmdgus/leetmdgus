@@ -12,11 +12,17 @@
 <table>
   <tr>
     <td><strong>🛍 정선아라리전통식품</strong></td>
+    <td><strong>🛍 정선푸드팜</strong></td>
   </tr>
   <tr>
     <td>
       <a href="https://sff7004.cafe24.com/">
         <img width="300" height="300" alt="banner1" src="https://github.com/user-attachments/assets/eb391c5c-22aa-449b-b200-87b86d3ba3cb" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sff6004.cafe24.com/">
+        <img width="300" height="300" alt="og-img" src="https://github.com/user-attachments/assets/3e6da5e6-35b4-470d-a89e-29ec82cb6f3b" />
       </a>
     </td>
   </tr>
@@ -41,7 +47,7 @@
 | 프로젝트명 | 설명 | 링크 |
 |-------------|------|------|
 | 🛍 **정선아라리전통식품** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://sff7004.cafe24.com/) |
-| 🛍 **정선푸드팜** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | 추가 예정 |
+| 🛍 **정선푸드팜** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://sff6004.cafe24.com/)|
 | 🖼️ **게시판** | Clean Architecture 기반 FastAPI 게시판 (FastAPI + uvicorn + sqladmin) | 구현 중... |
 
 ---
