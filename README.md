@@ -2,7 +2,9 @@
 
 <p align="center">
   <strong>"Done is better than perfect"</strong><br/>
-  🌱 현재 <a href="https://sff7004.cafe24.com/" target="_blank"><b>정선아라리전통식품</b></a> 브랜드 웹사이트 운영 중
+  🌱 현재 <a href="https://shop.ararifd.com/ko/" target="_blank"><b>정선아라리전통식품</b></a> 브랜드 웹사이트 운영 중 <br/>
+  🌱 현재 <a href="https://shop.jsff.co.kr/ko/" target="_blank"><b>정선푸드팜</b></a> 브랜드 웹사이트 운영 중
+
 </p>
 
 ---
@@ -46,10 +48,10 @@
 
 | 프로젝트명 | 설명 | 링크 |
 |-------------|------|------|
-| 🛍 **정선아라리전통식품** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://sff7004.cafe24.com/) |
-| 🛍 **정선푸드팜** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://sff6004.cafe24.com/)|
+| 🛍 **정선아라리전통식품** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://shop.ararifd.com/ko/) |
+| 🛍 **정선푸드팜** | 강원도 식품 회사 소개 홈페이지 (React + Vite + Tailwind + Cafe24 VPS 배포) | [🔗 바로가기](https://shop.jsff.co.kr/ko/)|
 | 🖼️ **게시판** | Clean Architecture 기반 FastAPI 게시판 (FastAPI + uvicorn + sqladmin) | 구현 중... |
-
+| ✔️**QR-MAKER** | 큐알코드 생성기 (Django + Render) | [🔗 바로가기](https://qrcode-maker-dnp4.onrender.com)|
 ---
 
 ### 📊 GitHub Stats
